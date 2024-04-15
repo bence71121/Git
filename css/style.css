@@ -1,0 +1,13 @@
+header{background-image: url(../img/git.gif);
+    background-size: cover;
+    height: 400px;
+    background-position: center;}
+
+#main{text-align: center;
+      padding-top: 165px;
+      font-size: 4.2rem;
+      color: white;
+      text-shadow: 3px 3px black;}    
+
+#teams img{width: 500px;
+        height: 500px;}    
